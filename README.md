@@ -1,6 +1,5 @@
 ##  Gallary-by-React
-
-该项目是来自慕课网的实战项目 - [React实践图片画廊应用（下）](https://www.imooc.com/learn/652)，原实战教程中，所用到的脚手架为 [yeoman](http://yeoman.io/) 中的 [generator-react-webpack](https://github.com/react-webpack-generators/generator-react-webpack#readme) 进行搭建，但是该脚手架已经快一年没有更新，而且其 2.0 版本也与食品教程中的项目结构都不一致，因此在该项目中使用了 React 官方团队维护的 [creat-react-app](https://github.com/facebookincubator/create-react-app) 作为脚手架搭建项目。
+ 使用create-react-app快速构建react项目的脚手架搭建工具项目。
 
 项目中使用 es6 的语法，并且对各个组件和功能模块进行了拆分，实现可复用，高定制的效果。
 
